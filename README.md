@@ -1,6 +1,18 @@
-# Anytone-D578UVII-Plus-Codeplug
+# Anytone-AT-D578UVIII-Plus-Codeplug
  
-Unofficial Mississippi Amateur Radio Emergency Services (ARES) codeplug for the Anytone AT-D878UVII Plus radio.
+> [!CAUTION]
+> For AnyTone radios, the codeplug version, CPS programming software version, and the firmware version installed on the radio must all be from the same version.
+>
+> You must [REBUILD](#rebuild) your codeplug every time a new CPS or firmware version is installed.
+
+## Table of Contents
+ - [Background](#background)
+ - [Features](#features)
+ - [Usage](#usage)
+ - [Rebuild](#rebuild)
+ 
+ ## Background
+ This codeplug, if you haven't guessed, is for the AnyTone AT-D578UBIII Plus mobile radio. This is the Amateur Radio version of their models and is a tri-band radio covering the 2 meter, 1.25 meter and 70 centimeter bands.
 
 This codeplug is a work in progress, please reach out to me if you notice any inaccuracies or would like to add repeaters in your Mississippi County.
 
